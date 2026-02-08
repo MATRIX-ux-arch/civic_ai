@@ -19,9 +19,6 @@ An AI-powered civic services assistant that helps users find the right governmen
 # Install dependencies
 npm install
 
-# Set up your Tambo API key in .env
-# VITE_TAMBO_API_KEY=your_key_here
-
 # Start the development server
 npm run dev
 ```
